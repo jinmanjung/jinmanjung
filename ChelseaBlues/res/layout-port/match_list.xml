@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableLayout 
+        android:id="@+id/midTable"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="*" >
+        <TableRow >
+        <TextView
+            android:id="@+id/tv_day"
+            android:layout_width="90dp"
+            android:layout_height="fill_parent"
+            android:paddingLeft="5dp"
+            android:textColor="#000000"
+            android:gravity="left" />
+        
+        <TextView
+            android:id="@+id/tv_vs"
+            android:layout_width="110dp"
+            android:layout_height="fill_parent"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:textColor="#000000"
+            android:gravity="left" />
+        
+        <TextView
+            android:id="@+id/tv_match"
+            android:layout_width="70dp"
+            android:layout_height="fill_parent"
+            android:textColor="#000000"
+            android:gravity="left" />
+        
+        <TextView
+            android:id="@+id/tv_winer"
+            android:layout_width="30dp"
+            android:layout_height="fill_parent"
+            android:textColor="#000000"
+            android:gravity="left" />
+        
+        <TextView
+            android:id="@+id/tv_result"
+            android:layout_width="30dp"
+            android:layout_height="fill_parent"
+            android:paddingRight="5dp"
+            android:textColor="#000000"
+            android:gravity="left" />
+        </TableRow>
+    </TableLayout>        
+</LinearLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HTML_TestActivity!</string>
+    <string name="app_name">ChelseaBlues</string>
+    
+    <string name="str_quit">종료</string>
+    <string name="str_quitquestion">종료 하시겠습니까?</string>
+    <string name="str_cancel">취소</string>
+    <string name="str_confirm">확인</string>
+    
+    <string name="str_info_cech">1 Petr Cech   [GK]</string>
+    <string name="str_info_iva">2 Branislav Ivanovic   [DF]</string>
+    <string name="str_info_cole">3 Ashley Cole   [DF]</string>
+    <string name="str_info_ruiz">4 David Luiz   [DF]</string>
+    <string name="str_info_essien">5 Michael Essien   [MF]</string>
+    <string name="str_info_romeu">6 Oriol Romeu   [MF]</string>
+    <string name="str_info_ramires">7 Ramires   [MF]</string>
+    <string name="str_info_lampard">8 Frank Lampard   [MF]</string>
+    <string name="str_info_torres">9 Fernando Torres   [FW]</string>
+    <string name="str_info_mata">10 Juan Mata   [MF]</string>
+    <string name="str_info_oscar">11 Oscar   [MF]</string>
+    <string name="str_info_mikel">12 Mikel   [MF]</string>
+    <string name="str_info_moses">13 Moses   [MF]</string>
+    <string name="str_info_schurrle">14 Andre Schurrle   [FW]</string>
+    <string name="str_info_bruyne">15 Kevin De Bruyne   [MF]</string>
+    <string name="str_info_ginkel">16 Marco van Ginkel   [MF]</string>
+    <string name="str_info_hazard">17 Eden Hazard   [MF]</string>
+    <string name="str_info_rukaku">18 Romelu Lukaku   [FW]</string>
+    <string name="str_info_ba">19 Demba Ba   [FW]</string>
+    <string name="str_info_marin">21 Marko Marin   [MF]</string>
+    <string name="str_info_willian">22 Willian   [MF]</string>
+    <string name="str_info_schwarzer">23 Mark Schwarzer   [GK]</string>
+    <string name="str_info_cahill">24 Gary Cahill   [DF]</string>
+    <string name="str_info_terry">26 John Terry   [DF]</string>
+    <string name="str_info_tanco">28 Cesar Azpilicueta   [DF]</string>
+    <string name="str_info_etoo">29 Samuel Etoo   [FW]</string>
+    <string name="str_info_kalas">33 Tomas Kalas   [DF]</string>
+    <string name="str_info_bertrand">34 Ryan Bertrand   [DF]</string>
+    <string name="str_info_hillario">40 Henrique Hilario   [GK]</string>
+    <string name="str_info_blackman">46 Jamal Blackman   [GK]</string>
+    
+    <string name="match_date">킥오프</string>
+    <string name="match_partner">상대</string>
+    <string name="match_competition">대회</string>
+    <string name="match_winner">승패</string>
+    <string name="match_result">결과</string>
+<!--
+    <string name="match_source">출처 : http://korea.chelseafc.com</string>
+-->
+</resources>

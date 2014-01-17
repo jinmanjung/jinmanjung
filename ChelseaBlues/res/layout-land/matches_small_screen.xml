@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableLayout
+        android:id="@+id/topTable"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="*" >
+        <TableRow>
+
+            <TextView
+                android:layout_width="48dp"
+                android:layout_height="fill_parent"
+                android:paddingLeft="5dp"
+                android:gravity="left"
+                android:background="#27519A"
+                android:text="날짜/킥오프" />
+
+            <TextView
+                android:layout_width="87dp"
+                android:layout_height="fill_parent"
+                android:gravity="left"
+                android:background="#27519A"
+                android:text="상대" />
+
+            <TextView
+                android:layout_width="48dp"
+                android:layout_height="fill_parent"
+                android:gravity="left"
+                android:background="#27519A"
+                android:text="대회" />
+
+            <TextView
+                android:layout_width="28dp"
+                android:layout_height="fill_parent"
+                android:gravity="left"
+                android:background="#27519A"
+                android:text="승패" />
+
+            <TextView
+                android:layout_width="28dp"
+                android:layout_height="fill_parent"
+                android:gravity="left"
+                android:background="#27519A"
+                android:text="결과" />
+            </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <ListView
+            android:id="@+id/listView1"
+            android:background="#FFFFFF"
+            android:cacheColorHint="#FFFFFF"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" >
+        </ListView>
+    </TableLayout>
+
+</LinearLayout>
