@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="solid_white">#ffffffff</color>
+    <color name="solid_red">#ffff0000</color>
+    <color name="solid_blue">#ff0000ff</color>
+    <color name="solid_green">#ff00ff00</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="color_for_title_bar_text">#ffffffff</color>
+    <color name="error_message">#ffea9eae</color>
+    <color name="webview_background">#ff342726</color>
+    <color name="friends_list_background_brand_new">#fff6d53a</color>
+    <color name="friends_list_background_deactivated">#ffcccccc</color>
+    <color name="friends_list_background">#fff7f7f7</color>
+    <color name="chatrooms_list_background">#ffe2f3fd</color>
+    <color name="default_list_background">#ffffffff</color>
+    <color name="default_list_selected_background">#ffe3e3e3</color>
+    <color name="chat_room_desc">#ff008bb6</color>
+    <color name="chat_room_bg_solid">#ff6783b3</color>
+    <color name="chat_room_notice">#ff94c0f1</color>
+    <color name="chat_room_unread">#ffede400</color>
+    <color name="chat_message">#ff000000</color>
+    <color name="inchat_section_bg">#fff0fbff</color>
+    <color name="nonselectable_item_bg">#ffc6e0ef</color>
+    <color name="friend_list_view_divider">#ffbcd7e8</color>
+    <color name="search_input_background">#ffebf7fe</color>
+    <color name="friend_section_background">#fff0fbff</color>
+    <color name="friend_faverite_section_background">#fff0fbff</color>
+    <color name="text_dark_shadow">#ff333333</color>
+    <color name="text_light_shadow">#ffffffff</color>
+    <color name="selection_chatroom_bg_color">#77ffff00</color>
+    <color name="chatroom_bg_imgview_color">#ff222222</color>
+    <color name="notification_sound_section_background">#ffacacac</color>
+</resources>

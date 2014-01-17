@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="custom_title_left"><b>친구(%d명)</b></string>
+    <string name="app_name">Messenger</string>
+<string name="custom_title_right"><b>메신저</b></string>
+<string name="tabs_1_tab_1">친구</string>
+<string name="tabs_1_tab_2">채팅</string>
+<string name="tabs_1_tab_3">설정</string>
+</resources>
