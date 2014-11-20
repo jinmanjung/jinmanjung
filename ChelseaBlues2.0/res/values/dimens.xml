@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Text size -->
+    <dimen name="textVerySmall">8sp</dimen>
+    <dimen name="textTiny">11sp</dimen>
+    <dimen name="textSmall">12sp</dimen>
+    <dimen name="textMediumSmall">14sp</dimen>
+    <dimen name="textMedium">17sp</dimen>
+    <dimen name="textMediumLarge">20sp</dimen>
+    <dimen name="textLarge">24sp</dimen>
+    <dimen name="textXtraLarge">28sp</dimen>
+    <dimen name="textXtraXtraLarge">36sp</dimen>
+    
+    <!-- Size of margin, padding, etc  -->
+    <dimen name="marginMicro1">1dip</dimen>
+    <dimen name="marginMicro">2dip</dimen>
+    <dimen name="marginNarrow">3dip</dimen>
+    <dimen name="marginNormal">5dip</dimen>
+    <dimen name="marginWide">10dip</dimen>
+    <dimen name="marginMoreWide">15dip</dimen>
+    <dimen name="marginXtraWide">20dip</dimen>
+    <dimen name="margin2XtraWide">30dip</dimen>
+    <dimen name="margin3XtraWide">40dip</dimen>
+    <dimen name="margin4XtraWide">50dip</dimen>
+    
+
+    <dimen name="heightLow">20dip</dimen>
+    <dimen name="heightMiddleLow">28dip</dimen>
+    <dimen name="heightMiddle">35dip</dimen>
+    <dimen name="heightMiddleHigh">45dip</dimen>
+    <dimen name="heightHigh">55dip</dimen>
+    <dimen name="heightXtraHigh">60dip</dimen>
+    <dimen name="height2XtraHigh">75dip</dimen>
+    <dimen name="heightVeryHigh">130dip</dimen>
+  
+    <dimen name="serviceItemHeight">100dip</dimen>
+    
+    <dimen name="heightCustomTitle">90dip</dimen>
+    <dimen name="widthThumb">80dip</dimen>
+    <dimen name="heightThumb">60dip</dimen>
+</resources>

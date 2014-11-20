@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chelsea.app.chelseablues"
+    android:versionCode="4"
+    android:versionName="1.03" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".application.ChelseaApplication"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.chelsea.app.chelseablues.activity.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/CustomTitleWhite" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.chelsea.app.chelseablues.activity.TeamActivity"
+            android:theme="@style/CustomTitleWhite" >
+        </activity>
+        <activity
+            android:name="com.chelsea.app.chelseablues.activity.MatchActivity"
+            android:theme="@style/CustomTitleWhite" >
+        </activity>
+        <activity
+            android:name="com.chelsea.app.chelseablues.activity.MatchDetailActivity"
+            android:theme="@style/CustomTitleWhite" >
+        </activity>
+        <activity
+            android:name="com.chelsea.app.chelseablues.activity.SplashActivity"
+            android:theme="@style/CustomTitleWhite" >
+        </activity>
+        <activity
+            android:name="com.chelsea.app.chelseablues.activity.NewsActivity"
+            android:theme="@style/CustomTitleWhite" >
+        </activity>
+        <activity
+            android:name="com.chelsea.app.chelseablues.activity.NewsDetailActivity"
+            android:theme="@style/CustomTitleWhite" >
+        </activity>
+        
+        
+        <receiver android:name="com.chelsea.app.chelseablues.receiver.AlarmReceiver"
+            android:process=":remote"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TableLayout
+        android:id="@+id/midTable"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="*">
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tv_matchDate"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:gravity="left|center_vertical"
+                android:textColor="#000000"/>
+
+            <TextView
+                android:id="@+id/tv_kickOff"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:text="시간" />
+
+            <TextView
+                android:id="@+id/tv_teamNameHome"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:text="홈팀" />
+
+            <TextView
+                android:id="@+id/tv_scoreHome"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:text="홈 스코어" />
+
+            <TextView
+                android:id="@+id/tv_scoreAway"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:text="원정 스코어" />
+
+            <TextView
+                android:id="@+id/tv_teamNameAway"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:text="원정팀" />
+
+            <TextView
+                android:id="@+id/tv_competition"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:text="대회" />
+
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>
