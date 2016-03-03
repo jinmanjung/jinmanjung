@@ -1,0 +1,41 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="header_height">198dp</dimen>
+    <dimen name="min_header_height">150dp</dimen>
+    <dimen name="header_logo_size">50dp</dimen>
+
+    <dimen name="dipZero">0dip</dimen>
+    <dimen name="dipHarf">0.5dip</dimen>
+    <dimen name="dipOne">1dip</dimen>
+    <dimen name="dipTwo">2dip</dimen>
+    <dimen name="dipThree">3dip</dimen>
+    <dimen name="dipFive">5dip</dimen>
+    <dimen name="dipSeven">7dip</dimen>
+    <dimen name="dipEight">8dip</dimen>
+    <dimen name="dipTen">10dip</dimen>
+    <dimen name="dipEleven">11dip</dimen>
+    <dimen name="dipTwelve">12dip</dimen>
+    <dimen name="dipThirteen">13dip</dimen>
+    <dimen name="dipFifteen">15dip</dimen>
+    <dimen name="dipEighteen">18dip</dimen>
+    <dimen name="dipTwenty">20dip</dimen>
+    <dimen name="dipTwentyFive">25dip</dimen>
+    <dimen name="dipThirty">30dip</dimen>
+    <dimen name="dipThirtyFive">35dip</dimen>
+    <dimen name="dipThirtyEight">38dip</dimen>
+    <dimen name="dipFourty">40dip</dimen>
+    <dimen name="dipFourtyFive">45dip</dimen>
+    <dimen name="dipFifty">50dip</dimen>
+    <dimen name="dipFiftyFive">55dip</dimen>
+    <dimen name="dipSeventy">70dip</dimen>
+    <dimen name="dipEighty">80dip</dimen>
+    <dimen name="dipHundred">100dip</dimen>
+    <dimen name="dipMinusThree">-5dip</dimen>
+    <dimen name="dipMinusFive">-5dip</dimen>
+    <dimen name="dipMinusTen">-10dip</dimen>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- common -->
+	<string name="app_name">포켓 뉴스</string>
+	<string name="actionbar_title">포켓 뉴스</string>
+	<string name="action_settings">Settings</string>
+	<string name="str_share">SHARE</string>
+	<string name="str_yes">Yes</string>
+	<string name="str_no">No</string>
+	<string name="str_finish_app">App Finish?</string>
+
+	<string name="str_primary">종합</string>
+	<string name="str_entertain">연예</string>
+	<string name="str_sports">스포츠</string>
+	<string name="str_society">사회</string>
+	<string name="str_politics">정치</string>
+	<string name="str_economic">경제</string>
+	<string name="str_foreign">국제</string>
+	<string name="str_culture">문화생활</string>
+	<string name="str_digital">IT과학</string>
+
+	<string name="banner_ad_unit_id">ca-app-pub-7443566698287663/1914085631</string>
+
+</resources>
