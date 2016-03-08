@@ -1,6 +1,6 @@
 ## My Project ##
 
-**여기있는 프로젝트 회사가 아닌 개인적으로 개발 및 출시한  소스들만 모아놓은 프로젝트들이다.**
+**회사가 아닌 개인적으로 개발 및 출시한  소스들만 모아놓은 프로젝트들이다.**
 
 ### RSSPotal(포켓뉴스) ###
 
@@ -37,3 +37,9 @@ app download: 마켓 출시 후 계속 유지보수 했으니 현재 로고, 사
 - TCP/IP socket
 - Image Loader
 - Multi Thread
+
+
+### Developed By ###
+Developed By
+glediaer - [lasco@naver.com](lasco@naver.com)
+[http://glediaer.dothome.co.kr/](http://glediaer.dothome.co.kr)
