@@ -14,6 +14,7 @@ app download: [https://play.google.com/store/apps/details?id=com.drogsin.rsspota
 - Volley
 - RSS parser
 - Admob
+- Custom Animation
 
 ### ChelseaBlues2.0 ###
 
@@ -42,4 +43,5 @@ app download: 마켓 출시 후 계속 유지보수 했으니 현재 로고, 사
 ### Developed By ###
 Developed By
 glediaer - [lasco@naver.com](lasco@naver.com)
+
 [http://glediaer.dothome.co.kr/](http://glediaer.dothome.co.kr)
